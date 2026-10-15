@@ -1,0 +1,31 @@
+body {
+    font-family: 'arial', sans-serif; 
+    margin: 0;
+    padding: 0;
+    background-color: #FDFBEA; 
+    color: #333;
+}
+
+#main-header {
+    background-color: #4E342E; 
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.hero {
+    background-color: #E65100; 
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.caja-flotante {
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 15px; 
+    padding: 20px;
+    width: 260px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); 
+    text-align: center;
+}
